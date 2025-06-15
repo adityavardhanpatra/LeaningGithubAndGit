@@ -1,2 +1,3 @@
 # LeaningGithubAndGit
-Thi is another 'learning github and git' repo.
+This is another 'learning github and git' repo.
+Author - Adityavardhan Patra
